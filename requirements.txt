@@ -1,0 +1,12 @@
+numpy
+pandas
+tqdm
+
+pydantic
+pydantic-settings
+
+scikit-learn
+scipy
+
+matplotlib
+seaborn
